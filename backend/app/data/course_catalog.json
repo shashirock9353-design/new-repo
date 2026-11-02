@@ -1,0 +1,17 @@
+[
+  {"title": "Python for Everybody", "provider": "Coursera", "difficulty": "Beginner", "duration": "4 weeks", "url": "https://www.coursera.org/specializations/python", "skill": "Python"},
+  {"title": "SQL for Data Science", "provider": "Coursera", "difficulty": "Beginner", "duration": "4 weeks", "url": "https://www.coursera.org/specializations/learn-sql", "skill": "SQL"},
+  {"title": "Machine Learning Specialization", "provider": "Coursera", "difficulty": "Intermediate", "duration": "3 months", "url": "https://www.coursera.org/specializations/machine-learning-introduction", "skill": "Machine Learning"},
+  {"title": "Introduction to Deep Learning", "provider": "edX", "difficulty": "Intermediate", "duration": "6 weeks", "url": "https://www.edx.org/learn/deep-learning", "skill": "Deep Learning"},
+  {"title": "Natural Language Processing Specialization", "provider": "Coursera", "difficulty": "Intermediate", "duration": "3 months", "url": "https://www.coursera.org/specializations/natural-language-processing", "skill": "Natural Language Processing"},
+  {"title": "Docker Essentials", "provider": "Udemy", "difficulty": "Beginner", "duration": "5 hours", "url": "https://www.udemy.com/courses/search/?q=docker%20essentials", "skill": "Docker"},
+  {"title": "Kubernetes for Beginners", "provider": "Udemy", "difficulty": "Intermediate", "duration": "8 hours", "url": "https://www.udemy.com/courses/search/?q=kubernetes%20for%20beginners", "skill": "Kubernetes"},
+  {"title": "AWS Cloud Practitioner Essentials", "provider": "AWS Skill Builder", "difficulty": "Beginner", "duration": "6 hours", "url": "https://skillbuilder.aws", "skill": "AWS"},
+  {"title": "Power BI Data Analyst", "provider": "Coursera", "difficulty": "Intermediate", "duration": "4 weeks", "url": "https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst", "skill": "Power BI"},
+  {"title": "Tableau Data Visualization", "provider": "Coursera", "difficulty": "Beginner", "duration": "4 weeks", "url": "https://www.coursera.org/learn/data-visualization-tableau", "skill": "Tableau"},
+  {"title": "Microsoft Excel Skills for Business", "provider": "Coursera", "difficulty": "Beginner", "duration": "4 weeks", "url": "https://www.coursera.org/specializations/microsoft-excel-data-analysis", "skill": "Microsoft Excel"},
+  {"title": "Data Analysis with Python", "provider": "freeCodeCamp", "difficulty": "Intermediate", "duration": "8 hours", "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/", "skill": "Data Analysis"},
+  {"title": "Communication in the Workplace", "provider": "Coursera", "difficulty": "Beginner", "duration": "2 weeks", "url": "https://www.coursera.org/learn/communication-skills", "skill": "Communication"},
+  {"title": "Project Management Fundamentals", "provider": "Coursera", "difficulty": "Beginner", "duration": "3 weeks", "url": "https://www.coursera.org/learn/project-management-foundations", "skill": "Project Management"},
+  {"title": "Google Data Analytics", "provider": "Coursera", "difficulty": "Beginner", "duration": "6 months", "url": "https://www.coursera.org/professional-certificates/google-data-analytics", "skill": "Data Analysis"}
+]
